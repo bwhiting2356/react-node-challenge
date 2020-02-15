@@ -10,4 +10,4 @@ In the `BackEnd` directory, run `npm start` (use `npm start:dev` for live reload
 
 2) Run the front end
 
-In the `FrontEnd` directory, run `npm start` for development, which will serve the React app on port 3000 (it will proxy requests to port 8080). In production, run `npm build` which will create the static files in the build directory. The server is configured to serve these static files from the `FrontEnd` directory.
+In the `FrontEnd` directory, run `npm start` for development, which will serve the React app on port 3000 (it will proxy requests to port 8080). In production, run `npm run build` which will create the static files in the build directory. The server is configured to serve these static files from the `FrontEnd` directory.
